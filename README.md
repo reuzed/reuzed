@@ -7,7 +7,7 @@
 * 💬 Ask me about maths.
 * 📫 How to reach me: email me at reu dot to
 * ❤️ I love climbing
-* ⚡ Fun fact: ...
+* ⚡ Fun project: Maths admission question database: <a href="https://mathsdb.com">mathsdb.com</a>
 
 <!--
 **reuzed/reuzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
